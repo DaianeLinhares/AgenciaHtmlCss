@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.menu{
+    background-color:#050278 ;
+     
+}
+.menu li{
+ display: inline-block;
+ text-align: center;
+   height: 50px;
+   width: 300px;
+    line-height: 50px;
+
+}
+.menu a{
+    color:white;
+    text-decoration: none;
+    color: #ffd005;
+}
+.logo{
+    background-color:#ffcd05;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+.apresentacao{
+    padding-top: 100px;
+    text-align: center;
+    background-image: url(img/plano\ de\ fundo\ praia.jpg);
+    height: 800px;
+    width: 100%;
+}
+.apresentacao img{
+    padding-top: 30px;
+max-width: 500px;
+
+}
+
+.contato{
+   
+    padding-top: 50px;
+    padding-bottom: 100px;
+    line-height: 30px;
+    background-image: url(img/plano\ de\ fundo\ praia.jpg);
+    display: flex;
+    justify-content: space-around;
+}
+.formulario{
+     text-align: center;
+    font-size: 20px;
+}
+.rodape li{
+    font-weight: bold;
+  
+   text-decoration: none;
+   display: inline-flex;
+   margin-left: 100px;
+   padding: 20px;
+}
+.rodape p{
+    text-align: center;
+}
+.destinos{
+    
+    display:flex;
+    justify-content: space-around;
+    padding:80px;
+    text-align: center;
+   
+}
+.destinos img{  
+    
+    max-width: 250px;
+    padding-top: 50px;
+    padding: 20px;
+}
+.pagamento{
+    max-width: 300px;
+}
+.precoAntigo{
+    text-decoration: line-through;
+    color: red;
+}
+.promocional{
+    font-size: 25px;
+    color:#050278
+}
