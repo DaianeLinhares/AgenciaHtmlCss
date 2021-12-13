@@ -47,9 +47,6 @@ max-width: 500px;
     padding-top: 50px;
     padding-bottom: 100px;
     line-height: 30px;
-    background-image: url(img/plano\ de\ fundo\ praia.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
     display: flex;
     justify-content:space-evenly;
     height: 500px;
@@ -97,12 +94,4 @@ max-width: 500px;
 .promocional{
     font-size: 25px;
     color:#050278
-}
-.cadastro{
-    background-image: url(img/foto01.jpg) ;
-    background-size: 100%;
-    background-repeat:no-repeat;
-    padding-top: 50px;
-    padding-left: 250px;
-    height: 1000px;
 }
