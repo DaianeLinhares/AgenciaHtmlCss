@@ -30,7 +30,7 @@
 .apresentacao{
     padding-top: 100px;
     text-align: center;
-    background-image: url(img/plano\ de\ fundo\ praia.jpg);
+    background-image: url(img/foto01.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 800px;
@@ -43,7 +43,9 @@ max-width: 500px;
 }
 
 .contato{
-   
+    background-image: url(img/foto01.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
     padding-top: 50px;
     padding-bottom: 100px;
     line-height: 30px;
@@ -94,4 +96,16 @@ max-width: 500px;
 .promocional{
     font-size: 25px;
     color:#050278
+}
+.cadastro{
+    background-image: url(img/foto01.jpg);
+    background-image: url(img/foto01.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.promo{
+    background-color: #69c4d3;
+}
+.fundoDestino{
+    background-color: #69c4d3;
 }

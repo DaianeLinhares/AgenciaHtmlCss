@@ -1,9 +1,10 @@
 # Agencia
  Projeto modulo 03
 
-HTML e CSS raiz
+HTML e CSS puro
 
  Logo feita no site Canva
+
 
  
 
